@@ -65,7 +65,7 @@ assignin('base', 'correctwords', correctwords)
 
 % printing shit (dont ask me why i had to use fprintf so many times i dont
 % really know how that function works </3)
-fprintf('Welcome to the Changer exam! Unscramble these words...\n\n\n')
+fprintf('Welcome to the Changer challenge! Unscramble these words...\n\n\n')
 fprintf('%s\n', scrambledwords{:})
 fprintf('\n\nPS! The sixth one is a bonus question. Answer it correctly for a surprise! If you need a hint, enter " hintplease ".\n\n')
 fprintf('Enter your answer in the following format:\n\n')
