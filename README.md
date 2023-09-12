@@ -8,13 +8,13 @@ do this challenge in MATLAB, and this bitch told me it was IMPOSSIBLE. Since I l
 
 Here's a lil tutorial for y'all since Berke said nobody will know how to use MATLAB </3
   
- ## SETTING UP 
+ ## setting up
   1. Download all my .m files (and the jpg but DONT LOOK AT IT ITS A SURPRISE)
   2. Put them in one folder
   3. Open MATLAB, and look at the top left for a little folder icon with a green arrow coming out of it and click on it
   4. Select the folder with all the downloaded files
      
-  ## RUNNING MATLAB EKREB !
+  ## running MATLAB ekreb !
   
   7. ok enter ekreb in the command window and hit enter
   8. i HIGHLY recommend entering hintplease next...
