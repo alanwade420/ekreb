@@ -13,8 +13,9 @@ Here's a lil tutorial for y'all since Berke said nobody will know how to use MAT
   2. Put them in one folder
   3. Open MATLAB, and look at the top left for a little folder icon with a green arrow coming out of it and click on it
   4. Select the folder with all the downloaded files
-  5. 
-  ##RUNNING MATLAB EKREB !
+     
+  ## RUNNING MATLAB EKREB !
+  
   7. ok enter ekreb in the command window and hit enter
   8. i HIGHLY recommend entering hintplease next...
   9. you MUST enter your answer in the correct format, your answers must be in quotations, AND you must enter all six responses at once otherwise MATLAB will get pissy at you
