@@ -69,5 +69,5 @@ fprintf('Welcome to the Changer challenge! Unscramble these words...\n\n\n')
 fprintf('%s\n', scrambledwords{:})
 fprintf('\n\nPS! The sixth one is a bonus question. Answer it correctly for a surprise! If you need a hint, enter " hintplease ".\n\n')
 fprintf('Enter your answer in the following format:\n\n')
-fprintf('check(correctwords, "answer 1", "answer 2", ..., "answer 6")\n')
+fprintf('check(correctwords, "answer1", "answer2", "answer3", "answer4", "answer5", "answer6"))\n')
 end
