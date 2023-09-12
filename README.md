@@ -3,7 +3,7 @@ Changer society challenge
 
 Hello Changer Soceity. It's me, Alan Wade.
 
-Y'all's former co president, current senior advisor, and perpetual narcissist--Berke Lunstad (or should I satekreb...), bet me thirty dollars I couldn't
+Y'all's former co president, current senior advisor, and perpetual narcissist--Berke Lunstad (or should I say ekreb...), bet me thirty dollars I couldn't
 do this challenge in MATLAB, and this bitch told me it was IMPOSSIBLE. Since I love taking money from men, especially from scammers like ekreb, I was like slay let's do it. 
 
 Here's a lil tutorial for y'all since Berke said nobody will know how to use MATLAB </3
